@@ -1,0 +1,48 @@
+*{
+    text-align: center;
+    
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 20%;   /* i'm need to try to gave border radious in only one side*/
+    margin: 1rem;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.yellow{
+    background-color: #f99b45;
+}
+
+.green{
+    background-color: #63c0ac;
+}
+
+.blue{
+    background-color: #819ff9;
+}
+
+.red{
+    background-color: #d95980;
+}
+
+
+/**********************************************************/
+.gameFlash{
+    background-color: white;
+}
+
+.userFlash{
+    
+    opacity: 0.6;
+    
+}
+
+/* ADD HOVER FEATURE */
